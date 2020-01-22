@@ -1,5 +1,5 @@
 # StarSociety
-<img src="images/logo.png" width="128">
+<a href="https://play.google.com/store/apps/details?id=info.adi.starsociety"><img src="images/logo.png" width="128"></a>
 
 [Download or View on Google Play](https://play.google.com/store/apps/details?id=info.adi.starsociety)
 
@@ -12,3 +12,6 @@ I created this app as a hobby. This is a preview/beta build and I advise you to 
 Please use this App Construcively.
 
 This app was built using Kotlin.
+
+Screenshots
+<img src="images/screenshot1.png"><img src="images/screenshot2.png"><img src="images/screenshot3.png">
