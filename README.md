@@ -1,7 +1,7 @@
 # StarSociety
-![Logo](images/logo.png)
+![Logo](images/logo.png =128x128)
 
-[Download or View on Google Play](https://play.google.com/store/apps/details?id=info.adi.starsociety =128x128)
+[Download or View on Google Play](https://play.google.com/store/apps/details?id=info.adi.starsociety)
 
 StarSociety is an app which allows you to Rate Others Daily and Send Anonymous Whispers.
 Others can also view and rate you.
