@@ -1,5 +1,5 @@
 # StarSociety
-<img src="images/logo.png" width="48">
+<img src="images/logo.png" width="128">
 
 [Download or View on Google Play](https://play.google.com/store/apps/details?id=info.adi.starsociety)
 
