@@ -13,8 +13,8 @@ Please use this App Construcively.
 
 This app was built using Kotlin.
 
-##Screenshots
+## Screenshots
 
-<img src="images/screenshot1.png">&nbsp;&nbsp;
-<img src="images/screenshot2.png">&nbsp;&nbsp;
-<img src="images/screenshot3.png">
+<img src="images/screenshot1.png" width="256">&nbsp;&nbsp;
+<img src="images/screenshot2.png" width="256">&nbsp;&nbsp;
+<img src="images/screenshot3.png" width="256">
